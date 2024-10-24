@@ -76,6 +76,17 @@ First, you must set your chromedriver location by
 
    export CHROMEDRIVER=~/chromedriver
 
+#Or
+.. code-block:: cmd
+
+set CHROMEDRIVER=chromedriver-win64\chromedriver.exe
+
+#Or 
+.. code-block:: python
+
+   import os
+   os.environ['CHROMEDRIVER'] = 'chromedriver-win64\\chromedriver.exe'
+
 Sponsor
 -------
 
