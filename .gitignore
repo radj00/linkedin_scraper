@@ -14,3 +14,6 @@ creds.json
 venv
 *.zip
 .env
+error_log.txt
+page_source.txt
+page_source.txt
